@@ -1,0 +1,4 @@
+app,company,category,location,investment,rule,policy_revision,state
+A-7,C-8,energy-saving,Zone-A,750000,P1,1,accepted
+A-8,C-9,energy-saving,Zone-A,900000,P1,2,draft
+A-9,C-8,automation,Zone-B,450000,P2,1,correction

@@ -1,0 +1,4 @@
+rule,category,location,min_investment,valid_from,revision,state
+P1,energy-saving,Zone-A,500000,2026-01-01,1,active
+P1,energy-saving,Zone-A,800000,2026-10-01,2,active
+P2,automation,Zone-B,300000,2026-03-01,1,active
